@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+pom.xml
+shop-core/
+shop-parent.iml
+shop-www/
+src/
